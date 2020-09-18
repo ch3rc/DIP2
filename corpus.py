@@ -11,7 +11,7 @@ def help():
     print("-t, --type, save the picture as this new type\n")
     print("provide a directory to get photos from\n")
     print("specify the name of the directory you would like it to go to\n")
-    print("default output directory is outdir.corpus\n")
+    print("default output directory is indir.corpus\n")
 
 
 def main():
